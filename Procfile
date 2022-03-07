@@ -1,1 +1,1 @@
-web: FiberRelation
+web: bin/FiberRelation
