@@ -1,8 +1,8 @@
 package routes
 
 import (
-	userRoutes "FiberRelation/UserApp/routes"
-	noteRoutes "FiberRelation/noteApp/routes"
+	userRoutes "github.com/Jrhero14/FiberRelation/UserApp/routes"
+	noteRoutes "github.com/Jrhero14/FiberRelation/noteApp/routes"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/logger"
 )

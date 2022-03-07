@@ -1,7 +1,7 @@
 package routes
 
 import (
-	noteHandler "FiberRelation/noteApp/handler"
+	noteHandler "github.com/Jrhero14/FiberRelation/noteApp/handler"
 	"github.com/gofiber/fiber/v2"
 )
 

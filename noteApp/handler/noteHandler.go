@@ -1,8 +1,8 @@
 package handler
 
 import (
-	"FiberRelation/database"
-	"FiberRelation/noteApp/model"
+	"github.com/Jrhero14/FiberRelation/database"
+	"github.com/Jrhero14/FiberRelation/noteApp/model"
 	"github.com/gofiber/fiber/v2"
 	"github.com/google/uuid"
 )

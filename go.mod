@@ -1,4 +1,4 @@
-module FiberRelation
+module github.com/Jrhero14/FiberRelation
 
 go 1.17
 

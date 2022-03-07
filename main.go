@@ -1,8 +1,8 @@
 package main
 
 import (
-	"FiberRelation/database"
-	"FiberRelation/routes"
+	"github.com/Jrhero14/FiberRelation/database"
+	"github.com/Jrhero14/FiberRelation/routes"
 	"github.com/gofiber/fiber/v2"
 )
 

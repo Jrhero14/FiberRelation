@@ -1,7 +1,7 @@
 package routes
 
 import (
-	userhandler "FiberRelation/UserApp/handler"
+	userhandler "github.com/Jrhero14/FiberRelation/UserApp/handler"
 	"github.com/gofiber/fiber/v2"
 )
 

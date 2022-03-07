@@ -1,9 +1,9 @@
 package database
 
 import (
-	"FiberRelation/config"
-	"FiberRelation/noteApp/model"
 	"fmt"
+	"github.com/Jrhero14/FiberRelation/config"
+	"github.com/Jrhero14/FiberRelation/noteApp/model"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 	"log"
